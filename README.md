@@ -7,8 +7,7 @@ My first GitHub repository
 - 🎯 Learning GitHub basics step by step  
 - 🚀 Goal: Improve coding skills and build small projects  
 
-## (Learning)
-- Python (beginner)   
+## (Learning) 
 - Web Development (HTML, CSS, JavaScript)  
 
 ## Contact
